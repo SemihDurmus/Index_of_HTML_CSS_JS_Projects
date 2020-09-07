@@ -12,6 +12,12 @@
   <img src="images/Project_002_.png" width="400">
 - **Best Club - SASS Application** <br/>[Repository](https://github.com/SemihDurmus/Project_SD_01_Best_Club_SASS) - [web view](https://semihdurmus.github.io/Project_SD_01_Best_Club_SASS/)<br/>
   <img src="images/Best_club.png" width="400">
+- **Project HC-03 Parallax Website (w/ SASS)** <br/>[Repository](https://github.com/SemihDurmus/Project_HC_03_Parallax_Website) - [web view](https://semihdurmus.github.io/Project_HC_03_Parallax_Website/)<br/>
+  <img src="images/Screenshot 2020-09-07 at 23.00.50.png" width="400">
+  
+  
+  
+  
 
 
    
