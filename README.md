@@ -7,6 +7,8 @@
 - **Early Portfolio (HTML, CSS, JS)** <br/>[Repository](https://github.com/SemihDurmus/WebSite_Basic_Practices_HTML_CSS_JS.git) - 
   [web view](https://semihdurmus.github.io/WebSite_Basic_Practices_HTML_CSS_JS/) <br/>
   <img src="images/2019.jpg" width="400"><br/><br/><br/><br/>
+- **Project HC-04 Website Page Design(HTML, SASS-Responsive, 3 Pages)** <br/>[Repository](https://github.com/SemihDurmus/Project_HC_04_Website_Page_Design) - [web view](https://semihdurmus.github.io/Project_HC_04_Website_Page_Design/)<br/>
+  <img src="images/professional_web.png" width="400"><br/><br/><br/><br/>
 - **1_Sprint_Crew_Page (HTML, CSS-Responsive)** <br/>[Repository](https://github.com/SemihDurmus/1_Sprint_Crew_Page) - 
   [web view](https://semihdurmus.github.io/1_Sprint_Crew_Page/) <br/>
   <img src="images/1_Sprint_Crew_Page.png" width="400"><br/><br/><br/><br/>
