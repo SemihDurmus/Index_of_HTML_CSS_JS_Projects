@@ -16,7 +16,7 @@
   <img src="images/crew_page.png" width="400"><br/><br/><br/><br/>
 - **HC-03 Parallax Website (HTML, SASS-Responsive)** <br/>[Repository](https://github.com/SemihDurmus/Project_HC_03_Parallax_Website) - [web view](https://semihdurmus.github.io/CC_03_Checkout_Form/)<br/>
   <img src="images/Screenshot 2020-09-07 at 23.00.50.png" width="400"><br/><br/><br/><br/>
-- **CC-03 Checkout Form (HTML, CSSS-Responsive)** <br/>[Repository](https://github.com/SemihDurmus/CC_03_Checkout_Form) - [web view](https://semihdurmus.github.io/Project_HC_03_Parallax_Website/)<br/>
+- **CC-03 Checkout Form (HTML, CSS-Responsive)** <br/>[Repository](https://github.com/SemihDurmus/CC_03_Checkout_Form) - [web view](https://semihdurmus.github.io/Project_HC_03_Parallax_Website/)<br/>
   <img src="images/checkout.png" width="400"><br/><br/><br/><br/>
 - **HC-02 Google Landing Page (HTML, CSS)** <br/>[Repository](https://github.com/SemihDurmus/Project_HC_02_Google_Landing_Page.git) - [web view](https://semihdurmus.github.io/Project_HC_02_Google_Landing_Page/)<br/>
   <img src="images/Project_002_.png" width="400"> <br/><br/><br/><br/>
