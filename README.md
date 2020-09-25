@@ -12,7 +12,7 @@
   <img src="images/web_design_2.png" width="400"><br/>
   <img src="images/web_design_2.png" width="400"><br/><br/><br/><br/>
 - **Sprint_1_Crew_Page (HTML, CSS-Responsive)** <br/>[Repository](https://github.com/SemihDurmus/1_Sprint_Crew_Page) - 
-  [web view](https://semihdurmus.github.io/1_Sprint_Crew_Page/) <br/>
+  [web view](https://semihdurmus.github.io/Sprint_1_Crew_Page/) <br/>
   <img src="images/crew_page.png" width="400"><br/><br/><br/><br/>
 - **HC_03_Parallax Website (HTML, SASS-Responsive)** <br/>[Repository](https://github.com/SemihDurmus/HC_03_Parallax_Website) - [web view](https://semihdurmus.github.io/HC_03_Parallax_Website/)<br/>
   <img src="images/Screenshot 2020-09-07 at 23.00.50.png" width="400"><br/><br/><br/><br/>
