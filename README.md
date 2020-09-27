@@ -7,6 +7,9 @@
 - **Early Portfolio (HTML, CSS, JS)** <br/>[Repository](https://github.com/SemihDurmus/WebSite_Basic_Practices_HTML_CSS_JS.git) - 
   [web view](https://semihdurmus.github.io/WebSite_Basic_Practices_HTML_CSS_JS/) <br/>
   <img src="images/2019.jpg" width="400"><br/><br/><br/><br/>
+- **JS_02_Calculator (HTML, CSS, JS*)** <br/>[Repository](https://github.com/SemihDurmus/JS_02_Calculator.git) - 
+  [web view](https://semihdurmus.github.io/JS_02_Calculator/)<br/>
+  <img src="images/calculator.png" width="400"><br/><br/><br/><br/>
 - **HC_04_Website Page Design(HTML, SASS-Responsive, JS)** <br/>[Repository](https://github.com/SemihDurmus/HC_04_Website_Page_Design) - [web view](https://semihdurmus.github.io/HC_04_Website_Page_Design/)<br/>
   <img src="images/web_design_1.png" width="400"><br/>
   <img src="images/web_design_2.png" width="400"><br/>
