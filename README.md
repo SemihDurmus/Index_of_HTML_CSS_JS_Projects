@@ -11,7 +11,10 @@
   <img src="images/web_design_1.png" width="400"><br/>
   <img src="images/web_design_2.png" width="400"><br/>
   <img src="images/web_design_2.png" width="400"><br/><br/><br/><br/>
-- **Sprint_1_Crew_Page (HTML, CSS-Responsive)** <br/>[Repository](https://github.com/SemihDurmus/1_Sprint_Crew_Page) - 
+- **JS_01_Find the Number Game(HTML, CSS-Responsive, JS)** <br/>[Repository](https://github.com/SemihDurmus/JS_01_Find_the_Number) - 
+  [web view](https://semihdurmus.github.io/JS_01_Find_the_Number/) <br/>
+  <img src="images/findnumber.png" width="400"><br/><br/><br/><br/>
+- **Sprint_1_Crew Page (HTML, CSS-Responsive)** <br/>[Repository](https://github.com/SemihDurmus/1_Sprint_Crew_Page) - 
   [web view](https://semihdurmus.github.io/Sprint_1_Crew_Page/) <br/>
   <img src="images/crew_page.png" width="400"><br/><br/><br/><br/>
 - **HC_03_Parallax Website (HTML, SASS-Responsive)** <br/>[Repository](https://github.com/SemihDurmus/HC_03_Parallax_Website) - [web view](https://semihdurmus.github.io/HC_03_Parallax_Website/)<br/>
