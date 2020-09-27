@@ -24,6 +24,10 @@
   <img src="images/Screenshot 2020-09-07 at 23.00.50.png" width="400"><br/><br/><br/><br/>
 - **CC_03_Checkout Form (HTML, CSS-Responsive)** <br/>[Repository](https://github.com/SemihDurmus/CC_03_Checkout_Form) - [web view](https://semihdurmus.github.io/CC_03_Checkout_Form/)<br/>
   <img src="images/checkout.png" width="400"><br/><br/><br/><br/>
+- **Sprint_2_Digital Clock (HTML, CSS-Responsive, JS)** <br/>[Repository](https://github.com/SemihDurmus/Sprint_2_Digital_Clock.git) - 
+  [web view](https://semihdurmus.github.io/Sprint_2_Digital_Clock/) <br/>
+  <img src="images/clock_night.png" width="400"><br/>
+  <img src="images/clock_day.png" width="400"><br/><br/><br/><br/>
 - **HC_02_Google Landing Page (HTML, CSS)** <br/>[Repository](https://github.com/SemihDurmus/HC_02_Google_Landing_Page.git) - [web view](https://semihdurmus.github.io/HC_02_Google_Landing_Page/)<br/>
   <img src="images/Project_002_.png" width="400"> <br/><br/><br/><br/>
 - **SD_01_Best Club (HTML, SASS-Responsive)** <br/>[Repository](https://github.com/SemihDurmus/SD_01_Best_Club_SASS) - [web view](https://semihdurmus.github.io/SD_01_Best_Club_SASS/)<br/>
