@@ -6,7 +6,7 @@
   [web view](https://semihdurmus.github.io/SD_02_Filterable_Restaurant_Menu/)<br/>
   <video width="400" height="300" controls>
   <source src="menu.mov" type="video/mp4">
-</video>
+  </video>
   <img src="images/calculator.png" width="400"><br/><br/><br/><br/>
 - **JS_02_Calculator (HTML, CSS, JS)** <br/>[Repository](https://github.com/SemihDurmus/JS_02_Calculator.git) - 
   [web view](https://semihdurmus.github.io/JS_02_Calculator/)<br/>
