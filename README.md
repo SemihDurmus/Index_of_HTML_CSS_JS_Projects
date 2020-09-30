@@ -2,11 +2,12 @@
 
 ### Projects
 
-
-
-- **Early Portfolio (HTML, CSS, JS)** <br/>[Repository](https://github.com/SemihDurmus/WebSite_Basic_Practices_HTML_CSS_JS.git) - 
-  [web view](https://semihdurmus.github.io/WebSite_Basic_Practices_HTML_CSS_JS/) <br/>
-  <img src="images/2019.jpg" width="400"><br/><br/><br/><br/>
+- **SD_02_Filterable Restaurant Menu (HTML, CSS, JS)** <br/>[Repository](https://github.com/SemihDurmus/SD_02_Filterable_Restaurant_Menu) - 
+  [web view](https://semihdurmus.github.io/SD_02_Filterable_Restaurant_Menu/)<br/>
+  <video width="400" height="300" controls>
+  <source src="menu.mov" type="video/mp4">
+</video>
+  <img src="images/calculator.png" width="400"><br/><br/><br/><br/>
 - **JS_02_Calculator (HTML, CSS, JS)** <br/>[Repository](https://github.com/SemihDurmus/JS_02_Calculator.git) - 
   [web view](https://semihdurmus.github.io/JS_02_Calculator/)<br/>
   <img src="images/calculator.png" width="400"><br/><br/><br/><br/>
@@ -35,4 +36,7 @@
 - **HC_01_Netflix Survey Form (HTML, CSS)** <br/>[Repository](https://github.com/SemihDurmus/HC_01_Netflix_Survey_Form.git) - 
   [web view](https://semihdurmus.github.io/Project_HC_01_Netflix_Survey_Form/) <br/>
   <img src="images/Project_001_.png" width="400"><br/><br/><br/><br/>
+- **Early Portfolio (HTML, CSS, JS)** <br/>[Repository](https://github.com/SemihDurmus/WebSite_Basic_Practices_HTML_CSS_JS.git) - 
+  [web view](https://semihdurmus.github.io/WebSite_Basic_Practices_HTML_CSS_JS/) <br/>
+  <img src="images/2019.jpg" width="400"><br/><br/><br/><br/>
    
