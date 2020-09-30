@@ -4,9 +4,6 @@
 
 - **SD_02_Filterable Restaurant Menu (HTML, CSS-Responsive, JS)** <br/>[Repository](https://github.com/SemihDurmus/SD_02_Filterable_Restaurant_Menu) - 
   [web view](https://semihdurmus.github.io/SD_02_Filterable_Restaurant_Menu/)<br/>
-  <video width="400" height="300">
-  <source src="images/menu.mov" type="video/mov">
-  </video>
   <img src="images/menu.png" width="400"><br/><br/><br/><br/>
 - **JS_02_Calculator (HTML, CSS, JS)** <br/>[Repository](https://github.com/SemihDurmus/JS_02_Calculator.git) - 
   [web view](https://semihdurmus.github.io/JS_02_Calculator/)<br/>
