@@ -10,7 +10,7 @@
   <img src="images/calculator.png" width="400"><br/><br/><br/><br/>
 - **JS_03_Hangman Game(HTML, CSS-Responsive, JS)** <br/>[Repository](https://github.com/SemihDurmus/JS_03_Hangman_Game) - 
   [web view](https://semihdurmus.github.io/JS_03_Hangman_Game/)<br/>
-  <img src="images/hangman.png" width="400"><br/><br/><br/><br/>
+  <img src="images/hang.png" width="400"><br/><br/><br/><br/>
 - **HC_04_Website Page Design(HTML, SASS-Responsive, JS)** <br/>[Repository](https://github.com/SemihDurmus/HC_04_Website_Page_Design) - [web view](https://semihdurmus.github.io/HC_04_Website_Page_Design/)<br/>
   <img src="images/web_design_1.png" width="400"><br/>
   <img src="images/web_design_2.png" width="400"><br/>
