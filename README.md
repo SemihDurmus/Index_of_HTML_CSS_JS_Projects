@@ -5,6 +5,9 @@
 - **SD_02_Filterable Restaurant Menu (HTML, CSS-Responsive, JS)** <br/>[Repository](https://github.com/SemihDurmus/SD_02_Filterable_Restaurant_Menu) - 
   [Live demo](https://semihdurmus.github.io/SD_02_Filterable_Restaurant_Menu/)<br/>
   <img src="images/menu.png" width="400"><br/><br/><br/><br/>
+- **SD_03_ToDo List (HTML, CSS-Responsive, JS)** <br/>[Repository](https://github.com/SemihDurmus/SD_03_Todo_List.git) - 
+  [Live demo](https://semihdurmus.github.io/SD_03_Todo_List/)<br/>
+  <img src="images/todo.png" width="400"><br/><br/><br/><br/>
 - **JS_02_Calculator (HTML, CSS, JS)** <br/>[Repository](https://github.com/SemihDurmus/JS_02_Calculator.git) - 
   [Live demo](https://semihdurmus.github.io/JS_02_Calculator/)<br/>
   <img src="images/calculator.png" width="400"><br/><br/><br/><br/>
