@@ -1,4 +1,4 @@
-# Index
+# Index of HTML & CSS & JS Works
 
 ### Projects
 
