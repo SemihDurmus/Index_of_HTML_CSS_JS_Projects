@@ -1,7 +1,7 @@
 <p align="center"> 
-    <img src='html.png' height=130>&nbsp;&nbsp;
-    <img src='css.png' height=130>&nbsp;&nbsp;
-    <img src='logo_js.png' height=130>&nbsp;&nbsp;
+    <img src='images/html.png' height=100>&nbsp;&nbsp;
+    <img src='images/css.png' height=100>&nbsp;&nbsp;
+    <img src='images/logo_js.png' height=100>&nbsp;&nbsp;
     <h1 align="center">Index of HTML & CSS & JS Works</h1>
 </p> 
 <br/>
