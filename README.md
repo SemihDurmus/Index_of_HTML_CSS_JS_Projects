@@ -2,7 +2,7 @@
     <img src='images/html.png' height=100>&nbsp;&nbsp;
     <img src='images/css.png' height=100>&nbsp;&nbsp;
     <img src='images/logo_js.png' height=100>&nbsp;&nbsp;
-    <h1 align="center">Index of HTML & CSS & JS Works</h1>
+    <h1 align="center">Index of HTML & CSS & JS Projects</h1>
 </p> 
 <br/>
 
